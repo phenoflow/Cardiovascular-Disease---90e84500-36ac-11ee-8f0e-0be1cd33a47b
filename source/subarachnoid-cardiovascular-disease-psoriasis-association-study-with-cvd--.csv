@@ -1,0 +1,10 @@
+code,system
+G60..00,readv2
+G601.00,readv2
+G605.00,readv2
+G60z.00,readv2
+I60,icd10
+I60.0,icd10
+I60.4,icd10
+I60.5,icd10
+I60.9,icd10
