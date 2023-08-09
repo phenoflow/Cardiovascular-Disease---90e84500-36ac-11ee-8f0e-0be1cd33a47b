@@ -1,0 +1,8 @@
+code,system
+G60X.00,readv2
+G62..00,readv2
+G62z.00,readv2
+I60.6,icd10
+I60.7,icd10
+I62,icd10
+I62.9,icd10
